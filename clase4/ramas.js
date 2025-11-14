@@ -1,4 +1,5 @@
 "ramas de repositorios"
 "rama practica"
 let numero = 5;
-"ramas practicas"
+"ramas "
+console.log("Rama numero: " + numero);
